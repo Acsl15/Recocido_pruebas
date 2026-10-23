@@ -1,0 +1,21 @@
+{
+  "repository": "https://github.com/Acsl15/Recocido_pruebas.git",
+  "base_commit": "ecc05837972e36c8e094a35826ee20528c07979c",
+  "original_python_modules_unchanged": true,
+  "sha256": {
+    "properties.py": "0daeae6ffea9519b4ea726afe313add37b39a7f74f798cb0d3fc8180be50d183",
+    "flow.py": "41f784cd937dbf4dba94f55262d55faace6b51fb35f2935549b2f2b57d7d6ba3",
+    "convection.py": "6846eb7a9775d76c96003f3afaa11d421b3da4dd0da9438dedacc08260bfc51e",
+    "mesh.py": "af69fe7b34de2a8ff78da947f9b413c64f92a6341c964e22a2e545d6c02a6dbf",
+    "radial_conductivity.py": "20b699b581c9e665ec747cbdfab869a27a788f20268d37f24d5a945b76e8c861",
+    "solver.py": "c0da5c7da5c42b4f2b456cbc018c36c859440c82ca989589df6b86d089c8bec8",
+    "analysis.py": "848ca0e3bfa818c40ea4afae359b602dc9fa575229ef06f1c0cde915095978bd",
+    "graph.py": "5cfbad7652c3b794f26e1cb618c61b3205daad822ebe059c72bddf13858f7b37",
+    "config.py": "9b91c50663442d45ec5aeec5e82d740f6c8b38a5c9c8a6df1394bbcf865e5c90",
+    "main.py": "5d9533641657f1dbb69345a35c37e6c079d0354eb79fb650e87147daef22d891",
+    "material_data.py": "fcb25a25383e1d45ab4b13e3176a6e3ce2530354cae972bf260d1621bc8046e4",
+    "surface_transfer.py": "a868e4dd5ed144732e7bbc3fe7b5b6f7f8628242cb93793d4854bc86ed2b8eed",
+    "test_model.py": "be6659b47df375f4e508b86a5361865fb3ff893ace2e3c0eaa189a912b71b567",
+    "verify_convergence.py": "2cdacb18e57ee00977406dc5fb088af6cedabb84d0f4e9200aa3cda83e82b772"
+  }
+}
